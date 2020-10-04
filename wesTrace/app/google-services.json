@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253895254072",
+    "firebase_url": "https://mindful-faculty-291321.firebaseio.com",
+    "project_id": "mindful-faculty-291321",
+    "storage_bucket": "mindful-faculty-291321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253895254072:android:4e207e4e0da50ad0dd46cd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253895254072-dq9ckenku6ugsds9rg0tsirs45m9djm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfHNJbtqB9tm-vSGin5uNf6C7_Fl4K2jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253895254072-dq9ckenku6ugsds9rg0tsirs45m9djm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
