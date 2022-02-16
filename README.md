@@ -1,3 +1,3 @@
 # wesTrack
 
-work ongoing
+COVID Occupancy tracker for university
